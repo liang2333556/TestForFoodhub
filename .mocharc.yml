@@ -1,3 +1,4 @@
 file:
   - test/functional/api/foodsTesting.js
+  - test/functional/api/productsTesting.js
 
