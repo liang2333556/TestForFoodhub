@@ -1,4 +1,7 @@
 file:
   - test/functional/api/foodsTesting.js
   - test/functional/api/productsTesting.js
+  - test/functional/api/userEssayTesting.js
+  - test/functional/api/orderTesting.js
+
 
