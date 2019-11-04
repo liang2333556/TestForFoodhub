@@ -1,3 +1,2 @@
-reporter:
-   - lcov
-   - text-summary
+/coverage
+/.nyc_output
