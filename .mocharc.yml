@@ -1,7 +1,3 @@
 file:
-  - test/functional/api/FoodsTesting.js
-  - test/functional/api/productsTesting.js
-  - test/functional/api/userEssayTesting.js
-  - test/functional/api/registTesting.js
-  - test/functional/api/logTesting.js
-  - test/functional/api/orderTesting.js
+  - test/functional/api/foodsTesting.js
+
