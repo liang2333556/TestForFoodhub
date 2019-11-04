@@ -4,5 +4,7 @@ file:
   - test/functional/api/userEssayTesting.js
   - test/functional/api/orderTesting.js
   - test/functional/api/searchTesting.js
+  - - test/functional/api/registTesting.js
+
 
 
