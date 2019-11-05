@@ -159,5 +159,5 @@ POST /log 200 70.698 ms - 19566
 
 Apart from the testing methods I learnt from the lab,I try and finished the testing for search function,it is a fuzzy search.In the test block,you can input some element in the products'name ,the result can be the certain product's name.
 I test the order including the valid user_id and product_id,the products stored in an array.
-Also i finished the local test,which is similar to the demo you provided.In my homework,i test for the cloud database,but i also finished the other type of test method.
+
 
