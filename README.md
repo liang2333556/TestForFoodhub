@@ -36,7 +36,6 @@ The data model image in the ./image file!
   Catalogue
   Foods
     GET /foods
-
 GET /foods 200 850.837 ms - 6537
       √ should return all the foods (943ms)
     GET /foods/:id
