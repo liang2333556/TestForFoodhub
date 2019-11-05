@@ -32,7 +32,7 @@ To accept the essay  from the user and transmit the food recommended user provid
 
 ## Sample Test execution.
 
-. . . . . In this section include a listing of the output from running your tests. Simply copy the output from your terminal and past it into a fenced block, as shown below. Do not use a screenshot.
+
 
 ~~~
   Catalogue
