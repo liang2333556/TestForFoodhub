@@ -24,7 +24,7 @@ To accept the essay  from the user and transmit the food recommended user provid
  +POST/log-Check the valid users and log in
  +POST/search-Fuzzy search,find the product by the element in it name.
 ## Data model.
-![][datamodel]
+
 [datamodel]:./img/agile.png
 
 ## Sample Test execution.
@@ -159,4 +159,4 @@ POST /log 200 70.698 ms - 19566
 Apart from the testing methods I learnt from the lab,I try and finished the testing for search function,it is a fuzzy search.In the test block,you can input some element in the products'name ,the result can be the certain product's name.
 I test the order including the valid user_id and product_id,the products stored in an array.
 
-
+![][datamodel]
