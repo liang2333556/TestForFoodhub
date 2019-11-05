@@ -25,7 +25,7 @@ To accept the essay  from the user and transmit the food recommended user provid
  +POST/search-Fuzzy search,find the product by the element in it name.
 ## Data model.
 ![][datamodel]
-[datamodel]:./agile.png
+[datamodel]:./img/agile.png
 
 ## Sample Test execution.
 
