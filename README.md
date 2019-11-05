@@ -27,6 +27,9 @@ To accept the essay  from the user and transmit the food recommended user provid
 
 [datamodel]:./img/agile.png
 
+
+![][datamodel]
+
 ## Sample Test execution.
 
 . . . . . In this section include a listing of the output from running your tests. Simply copy the output from your terminal and past it into a fenced block, as shown below. Do not use a screenshot.
@@ -159,4 +162,4 @@ POST /log 200 70.698 ms - 19566
 Apart from the testing methods I learnt from the lab,I try and finished the testing for search function,it is a fuzzy search.In the test block,you can input some element in the products'name ,the result can be the certain product's name.
 I test the order including the valid user_id and product_id,the products stored in an array.
 
-![][datamodel]
+
